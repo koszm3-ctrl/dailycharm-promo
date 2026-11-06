@@ -6,7 +6,7 @@
 | --- | --- |
 | `zh-Hant/` | 대만용 번체 중국어 카드 (1080 × 1350, 4:5, JPEG) |
 | `ja/` | 일본용 일본어 카드 (같은 크기, 같은 그림) |
-| `instagram/` | 인스타그램 카드뉴스 발행 대기열 (검수를 통과한 카드뉴스, 화·목·토에 차례대로 올라가요. [instagram/README.md](instagram/README.md)) |
+| `instagram/` | 인스타그램 카드뉴스 발행 대기열 (검수를 통과한 카드뉴스, 매일 저녁에 차례대로 올라가요. [instagram/README.md](instagram/README.md)) |
 
 | 파일 | 대만 (`zh-Hant/`) | 일본 (`ja/`) | 그림 |
 | --- | --- | --- | --- |
