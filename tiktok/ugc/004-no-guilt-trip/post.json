@@ -1,0 +1,35 @@
+{
+  "title": "a to-do app that doesn't guilt trip you",
+  "caption": "when your to-do app doesn't guilt trip you for skipping a day 😭\n\nDaily Charm takes nothing away for a day off, and at night it offers to move what's left to tomorrow. Daily Charm is free to start on the App Store (iPhone).\n\nThe person in this video is AI-generated.\n\n#gentleproductivity #todolist #dailyplanner #productivity #dailycharm",
+  "music": "dawn_mist.m4a",
+  "scenes": [
+    {
+      "veo": {
+        "clip": "../hooks/sofa-giggle.mp4"
+      },
+      "show": 5.8,
+      "style": "tiktok",
+      "text": [
+        "when your to-do app",
+        "doesn't guilt trip you",
+        "for skipping a day",
+        "and just lets you",
+        "pick it up tomorrow"
+      ],
+      "at": "top"
+    },
+    {
+      "demo": {
+        "file": "../demo-phone.mp4",
+        "from": 0.4,
+        "to": 8.0
+      }
+    },
+    {
+      "end": {
+        "seconds": 2.0,
+        "line": "Free to start on the App Store"
+      }
+    }
+  ]
+}

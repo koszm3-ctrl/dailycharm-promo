@@ -1,0 +1,31 @@
+{
+  "title": "wait, my to-do list became a timeline",
+  "caption": "wait. my to-do list just became a timeline 😭\n\nYour to-dos and plans line up on one timeline of the day, next to your habits, mood and diary. Daily Charm is free to start on the App Store (iPhone).\n\nThe person in this video is AI-generated.\n\n#timeblocking #todolist #dailyplanner #productivity #dailycharm",
+  "music": "a_moment.m4a",
+  "scenes": [
+    {
+      "veo": {
+        "clip": "../hooks/couch-surprise.mp4"
+      },
+      "show": 3.8,
+      "style": "tiktok",
+      "text": [
+        "wait. my to-do list",
+        "just became a timeline"
+      ]
+    },
+    {
+      "demo": {
+        "file": "../demo-phone.mp4",
+        "from": 0.4,
+        "to": 14.3
+      }
+    },
+    {
+      "end": {
+        "seconds": 2.0,
+        "line": "Free to start on the App Store"
+      }
+    }
+  ]
+}
