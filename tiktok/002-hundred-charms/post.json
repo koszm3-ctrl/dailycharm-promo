@@ -1,0 +1,38 @@
+{
+  "title": "100 tiny charms, zero judgment",
+  "caption": "100 tiny charms. Zero of them judge you 🌿\n\nIn Daily Charm, new charms show up as you log your days: to-dos, habits, a mood, one line of diary. You open each one by tapping a little gift box.\n\nFree to start on the App Store (iPhone). Search “Daily Charm”.\n\n#todolist #habittracker #cozyapps #productivity #dailycharm",
+  "music": "clear_afternoon.m4a",
+  "scenes": [
+    {
+      "veo": {
+        "frame": "shelves",
+        "seconds": 4,
+        "prompt": "Stop-motion style scene of three empty wooden shelves on a cream paper wall. Very subtle motion: soft sunlight slowly drifts across the wall and tiny dust motes float in the light. Nothing new appears: no characters, no animals, no people, no objects are added, and nothing moves from its place. Locked-off static camera, no zoom, soft warm even light, calm and cozy."
+      },
+      "show": 3.5,
+      "text": [
+        "100 tiny charms.",
+        "*Zero* judgment."
+      ],
+      "small": "They show up as you log your day."
+    },
+    {
+      "app": {
+        "from": 15.3,
+        "to": 19.3
+      }
+    },
+    {
+      "app": {
+        "from": 8.3,
+        "to": 12.3
+      }
+    },
+    {
+      "end": {
+        "seconds": 2.6,
+        "line": "Free to start on the App Store"
+      }
+    }
+  ]
+}

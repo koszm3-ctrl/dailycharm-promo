@@ -1,0 +1,37 @@
+{
+  "title": "Tired today? So are they",
+  "caption": "Tired today? So are they 😴\n\nDaily Charm never docks you for a day off. No streaks to break, no guilt. Do what you can and pick it up tomorrow.\n\nFree to start on the App Store (iPhone). Search “Daily Charm”.\n\n#selfcare #gentleproductivity #cozyapps #todolist #dailycharm",
+  "music": "clear_moonlight.m4a",
+  "scenes": [
+    {
+      "veo": {
+        "clip": "../001-roommates/clips/02-rest.mp4"
+      },
+      "show": 4,
+      "text": [
+        "Tired today?",
+        "*So are they.*"
+      ],
+      "small": "No streaks. No pressure.",
+      "dark": true
+    },
+    {
+      "app": {
+        "from": 0.1,
+        "to": 3.0
+      }
+    },
+    {
+      "app": {
+        "from": 15.3,
+        "to": 19.3
+      }
+    },
+    {
+      "end": {
+        "seconds": 2.6,
+        "line": "Free to start on the App Store"
+      }
+    }
+  ]
+}

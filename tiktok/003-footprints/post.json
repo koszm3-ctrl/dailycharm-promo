@@ -1,0 +1,38 @@
+{
+  "title": "Finish a task, leave a footprint",
+  "caption": "Finish a task, leave a footprint 👣\n\nFootprints add up as you get things done, walk, or write a line in your diary. Spend them on tiny furniture for the room your charms live in.\n\nDaily Charm is free to start on the App Store (iPhone). Search “Daily Charm”.\n\n#todolist #habittracker #cozyapps #productivity #dailycharm",
+  "music": "clear_moonlight.m4a",
+  "scenes": [
+    {
+      "veo": {
+        "frame": "room",
+        "seconds": 4,
+        "prompt": "Stop-motion style scene of a tiny cozy room with a green sofa, a potted plant, a floor lamp, a rug, a window and glass footprints on the floor. Very subtle motion: the plant's leaves sway slightly, clouds drift slowly in the window, the glass footprints catch small glints of light. Nothing new appears: no characters, no animals, no people, no objects are added, and nothing moves from its place. Locked-off static camera, no zoom, soft warm even light, calm and cozy."
+      },
+      "show": 3.5,
+      "text": [
+        "Finish a task,",
+        "leave a *footprint*"
+      ],
+      "small": "Spend them on tiny furniture."
+    },
+    {
+      "app": {
+        "from": 0.1,
+        "to": 3.0
+      }
+    },
+    {
+      "app": {
+        "from": 8.3,
+        "to": 12.3
+      }
+    },
+    {
+      "end": {
+        "seconds": 2.6,
+        "line": "Free to start on the App Store"
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Lights down, charms gather",
+  "caption": "Lights down. Your charms gather 🌙\n\nStart the focus timer in Daily Charm and the room goes dim while your charms keep you company. The time left shows on your Lock Screen too.\n\nFree to start on the App Store (iPhone). Search “Daily Charm”.\n\n#focustimer #pomodoro #studytok #cozyapps #dailycharm",
+  "music": "dawn_mist.m4a",
+  "scenes": [
+    {
+      "veo": {
+        "frame": "night",
+        "seconds": 4,
+        "prompt": "Stop-motion style scene at night: a rug on the floor under the warm glow of a floor lamp in a dark room. Very subtle motion: the lamp's warm light flickers and breathes softly. Nothing new appears: no characters, no animals, no people, no objects are added, and nothing moves from its place. Locked-off static camera, no zoom, soft warm even light, calm and cozy."
+      },
+      "show": 3.5,
+      "text": [
+        "Lights down.",
+        "Charms *gather*."
+      ],
+      "small": "A focus timer with company.",
+      "dark": true
+    },
+    {
+      "app": {
+        "from": 8.3,
+        "to": 12.3
+      }
+    },
+    {
+      "app": {
+        "from": 0.1,
+        "to": 3.0
+      }
+    },
+    {
+      "end": {
+        "seconds": 2.6,
+        "line": "Free to start on the App Store"
+      }
+    }
+  ]
+}
