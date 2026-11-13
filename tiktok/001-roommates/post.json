@@ -1,0 +1,57 @@
+{
+  "title": "Your to-do list has tiny roommates",
+  "caption": "Your to-do list has tiny roommates now 🌱\n\nFinish a task and footprints add up. Keep going and new charms move in. Skip a day? Nothing breaks. They just nap.\n\nDaily Charm is free to start on the App Store (iPhone). Search “Daily Charm”.\n\n#todolist #habittracker #cozyapps #productivity #dailycharm",
+  "music": "a_moment.m4a",
+  "scenes": [
+    {
+      "veo": {
+        "frame": "hills",
+        "seconds": 6,
+        "prompt": "Stop-motion style animation of small handmade clay and wood figurines standing in a row on soft pastel paper hills. The figurines keep exactly the same shape, colors and faces. They gently bob and hop in place one after another and blink their tiny dot eyes; the leafy one rustles its leaves, the little sprout sways. The pale sun glows softly and the glass footprints on the path glint. Static camera, soft warm light, calm and cozy."
+      },
+      "show": 3,
+      "text": [
+        "Your to-do list",
+        "has tiny *roommates*"
+      ]
+    },
+    {
+      "veo": {
+        "frame": "rest",
+        "seconds": 6,
+        "prompt": "Stop-motion style animation at night. A small smooth stone figurine with closed eyes sleeps on a soft linen cushion, slowly breathing in and out, its body gently rising and falling. The figurine keeps exactly the same shape, colors and face and stays asleep. The plant's leaves sway slightly, the crescent moon and tiny stars softly twinkle, warm lamp glow. Static camera, quiet and cozy."
+      },
+      "show": 5,
+      "dark": true,
+      "text": [
+        "Skip a day?",
+        "*They just nap.*"
+      ],
+      "small": "No streaks to break. No guilt."
+    },
+    {
+      "app": {
+        "from": 0.1,
+        "to": 3.0
+      }
+    },
+    {
+      "app": {
+        "from": 8.3,
+        "to": 12.3
+      }
+    },
+    {
+      "app": {
+        "from": 15.3,
+        "to": 19.3
+      }
+    },
+    {
+      "end": {
+        "seconds": 2.6,
+        "line": "Free to start on the App Store"
+      }
+    }
+  ]
+}
