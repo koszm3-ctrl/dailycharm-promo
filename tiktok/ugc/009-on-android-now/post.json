@@ -1,0 +1,31 @@
+{
+  "title": "this planner is on android now",
+  "caption": "#android #todolist #dailyplanner #productivity #dailycharm",
+  "music": "a_moment.m4a",
+  "scenes": [
+    {
+      "veo": {
+        "clip": "../hooks/couch-surprise.mp4"
+      },
+      "show": 3.8,
+      "style": "tiktok",
+      "text": [
+        "wait. this planner",
+        "is on android now??"
+      ]
+    },
+    {
+      "demo": {
+        "file": "../demo-phone.mp4",
+        "from": 0.4,
+        "to": 8.0
+      }
+    },
+    {
+      "end": {
+        "seconds": 2.0,
+        "line": "Free on the App Store & Google Play"
+      }
+    }
+  ]
+}

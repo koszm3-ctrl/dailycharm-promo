@@ -1,0 +1,37 @@
+{
+  "title": "Daily Charm is now on Android",
+  "caption": "Tiny charms, now on Android 🌿\n\nDaily Charm just landed on Google Play: to-dos, habits, mood and a one-line diary in one day, with little charms that show up as you log.\n\nDaily Charm is free to start on iPhone and Android. Search “Daily Charm” on the App Store or Google Play.\n\n#android #todolist #habittracker #cozyapps #dailycharm",
+  "music": "clear_afternoon.m4a",
+  "scenes": [
+    {
+      "veo": {
+        "clip": "../002-hundred-charms/clips/01-shelves.mp4",
+        "frame": "shelves"
+      },
+      "show": 3.5,
+      "text": [
+        "Tiny charms,",
+        "now on *Android*"
+      ],
+      "small": "Daily Charm is on Google Play."
+    },
+    {
+      "app": {
+        "from": 15.3,
+        "to": 19.3
+      }
+    },
+    {
+      "app": {
+        "from": 8.3,
+        "to": 12.3
+      }
+    },
+    {
+      "end": {
+        "seconds": 2.6,
+        "line": "Free on the App Store & Google Play"
+      }
+    }
+  ]
+}

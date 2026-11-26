@@ -1,0 +1,32 @@
+{
+  "title": "your planner moves the rest to tomorrow",
+  "caption": "#gentleproductivity #todolist #dailyplanner #productivity #dailycharm",
+  "music": "dawn_mist.m4a",
+  "scenes": [
+    {
+      "veo": {
+        "clip": "../hooks/car-relief.mp4"
+      },
+      "show": 3.8,
+      "style": "tiktok",
+      "text": [
+        "POV: the day's over and",
+        "your planner offers to",
+        "move the rest to tomorrow"
+      ]
+    },
+    {
+      "demo": {
+        "file": "../demo-phone.mp4",
+        "from": 0.4,
+        "to": 8.0
+      }
+    },
+    {
+      "end": {
+        "seconds": 2.0,
+        "line": "Free on the App Store & Google Play"
+      }
+    }
+  ]
+}

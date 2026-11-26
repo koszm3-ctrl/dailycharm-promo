@@ -1,0 +1,38 @@
+{
+  "title": "Not done yet? Try tomorrow",
+  "caption": "Not done yet? Try tomorrow 🌙\n\nAt the end of the day Daily Charm shows what you did and offers to move what's left to tomorrow. No penalty for a slow day.\n\nDaily Charm is free to start on iPhone and Android. Search “Daily Charm” on the App Store or Google Play.\n\n#gentleproductivity #todolist #dailyplanner #android #dailycharm",
+  "music": "clear_moonlight.m4a",
+  "scenes": [
+    {
+      "veo": {
+        "clip": "../004-focus-company/clips/01-night.mp4",
+        "frame": "night"
+      },
+      "show": 3.5,
+      "text": [
+        "Not done yet?",
+        "*Try tomorrow.*"
+      ],
+      "small": "Move what's left with one tap.",
+      "dark": true
+    },
+    {
+      "app": {
+        "from": 0.1,
+        "to": 3.0
+      }
+    },
+    {
+      "app": {
+        "from": 3.3,
+        "to": 7.9
+      }
+    },
+    {
+      "end": {
+        "seconds": 2.6,
+        "line": "Free on the App Store & Google Play"
+      }
+    }
+  ]
+}

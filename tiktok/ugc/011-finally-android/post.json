@@ -1,0 +1,35 @@
+{
+  "title": "when it finally comes to android",
+  "caption": "#android #habittracker #todolist #dailyplanner #productivity #dailycharm",
+  "music": "clear_moonlight.m4a",
+  "scenes": [
+    {
+      "veo": {
+        "clip": "../hooks/sofa-giggle.mp4"
+      },
+      "show": 5.8,
+      "style": "tiktok",
+      "text": [
+        "when the planner you wanted",
+        "finally comes to android",
+        "and your to-dos, habits,",
+        "mood and diary",
+        "all live in one place"
+      ],
+      "at": "top"
+    },
+    {
+      "demo": {
+        "file": "../demo-phone.mp4",
+        "from": 5.6,
+        "to": 14.3
+      }
+    },
+    {
+      "end": {
+        "seconds": 2.0,
+        "line": "Free on the App Store & Google Play"
+      }
+    }
+  ]
+}

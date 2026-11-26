@@ -1,0 +1,32 @@
+{
+  "title": "psa: the cozy planner is on android",
+  "caption": "#android #cozyapps #todolist #dailyplanner #productivity #dailycharm",
+  "music": "clear_afternoon.m4a",
+  "scenes": [
+    {
+      "veo": {
+        "clip": "../hooks/kitchen-secret.mp4"
+      },
+      "show": 3.8,
+      "style": "tiktok",
+      "text": [
+        "psa: the cozy planner",
+        "with the tiny charms",
+        "just landed on android"
+      ]
+    },
+    {
+      "demo": {
+        "file": "../demo-phone.mp4",
+        "from": 0.4,
+        "to": 14.3
+      }
+    },
+    {
+      "end": {
+        "seconds": 2.0,
+        "line": "Free on the App Store & Google Play"
+      }
+    }
+  ]
+}

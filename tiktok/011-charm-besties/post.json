@@ -1,0 +1,37 @@
+{
+  "title": "Your charms have besties",
+  "caption": "Your charms have besties 🌱\n\nLeave the room open and they chat, dance side by side, play tag and nap together. The ones that play a lot pair up.\n\nDaily Charm is free to start on iPhone and Android. Search “Daily Charm” on the App Store or Google Play.\n\n#cozyapps #cutegames #todolist #android #dailycharm",
+  "music": "clear_afternoon.m4a",
+  "scenes": [
+    {
+      "veo": {
+        "clip": "../006-habit-ring/clips/01-pair.mp4",
+        "frame": "pair"
+      },
+      "show": 3.5,
+      "text": [
+        "Your charms",
+        "have *besties*"
+      ],
+      "small": "They chat, dance and play tag."
+    },
+    {
+      "app": {
+        "from": 8.3,
+        "to": 12.3
+      }
+    },
+    {
+      "app": {
+        "from": 15.3,
+        "to": 19.3
+      }
+    },
+    {
+      "end": {
+        "seconds": 2.6,
+        "line": "Free on the App Store & Google Play"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "title": "Type it once, it plans itself",
+  "caption": "Type it once. It plans itself ✏️\n\nWrite the day and time in the title, like “tomorrow 3pm dentist”, and Daily Charm sets them for you.\n\nDaily Charm is free to start on iPhone and Android. Search “Daily Charm” on the App Store or Google Play.\n\n#todolist #dailyplanner #productivity #android #dailycharm",
+  "music": "dawn_mist.m4a",
+  "scenes": [
+    {
+      "veo": {
+        "clip": "../005-one-line-diary/clips/01-desk.mp4",
+        "frame": "desk"
+      },
+      "show": 3.5,
+      "text": [
+        "Type it once.",
+        "It *plans itself*."
+      ],
+      "small": "Day and time, read from the title."
+    },
+    {
+      "app": {
+        "from": 0.1,
+        "to": 3.0
+      }
+    },
+    {
+      "app": {
+        "from": 3.3,
+        "to": 7.9
+      }
+    },
+    {
+      "end": {
+        "seconds": 2.6,
+        "line": "Free on the App Store & Google Play"
+      }
+    }
+  ]
+}
